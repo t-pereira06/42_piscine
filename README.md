@@ -1,1 +1,1 @@
-# repository created for piscine exercices
+# Repository created for piscine exercices
