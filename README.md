@@ -1,3 +1,2 @@
-# Repository created for piscine exercices
 # What is the "Piscine"?
 The word “Piscine” is the French word for “swimming pool”: dive into the deep end of coding, and learn how to swim - together with your peers. The Piscine is a four week long trial period. During the Piscine, you will discover the basics of coding from scratch. No prerequisites of any kind are needed: no previous degrees, no coding experience. This period will be very intensive and requires commitment. There is no fixed amount of applicants to be selected. This means there is no competition between applicants and anyone can be selected.
